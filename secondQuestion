@@ -1,0 +1,12 @@
+var1 = input("Please enter first number: ")
+var2 = input("Please enter second number: ")
+
+sum = int(var1) + int(var2)
+prod = int(var1) * int(var2)
+diff = int(var1) - int(var2)
+
+print("First number is : " + var1)
+print("Second number is : " + var2)
+print("Summation  : " + sum)
+print("Difference  : " + diff)
+print("Product : " + prod)
